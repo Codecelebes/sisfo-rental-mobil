@@ -1,6 +1,0 @@
-DESAIN UX
-
-1. Desain UX input
-   - Desain form register
-   - Desain form input
-2. Desain UX Output
