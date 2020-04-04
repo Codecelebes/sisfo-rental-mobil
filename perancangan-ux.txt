@@ -1,0 +1,6 @@
+MENAMBAHKAN PERANCANGAN UX
+
+1. Desain UX Input
+   - Desain form register
+   - Desain form input
+2. Desain UX Output
