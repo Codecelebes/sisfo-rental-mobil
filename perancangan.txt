@@ -1,0 +1,8 @@
+1. Sistem yang berjalan
+2. Sistem yang diusulkan
+3. Usecase
+4. Class diagram
+5. Sequence diagram
+6. Diagram activity
+7. Perancangan input
+8. Perancangan output
