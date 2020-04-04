@@ -6,3 +6,4 @@
 6. Diagram activity
 7. Perancangan input
 8. Perancangan output
+9. Perancangan hasil laporan aporan
